@@ -11,7 +11,7 @@ main::after{
     width: 80vw;
     min-height: 100vh;
 
-    background: linear-gradient(-233deg, #000 40%, rgba(0, 0, 0, 0) 65%) no-repeat;
+    background: linear-gradient(-233deg, rgba(0, 0, 0, 0.7) 40%, rgba(0, 0, 0, 0) 65%) no-repeat;
 }
 
 main .personagem {
